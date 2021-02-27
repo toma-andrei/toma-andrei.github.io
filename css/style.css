@@ -1,0 +1,58 @@
+body{
+    background-image: linear-gradient(to top right, rgb(116, 92, 128), rgb(151, 216, 192));
+}
+
+hr{
+    width: 250px;
+    border-color: cadetblue;
+}
+
+#grid{
+    border: 2px;
+    border-color: black;
+}
+
+#titlu{
+    color:rgb(23, 17, 64);
+    margin-left: 44%;
+    margin-right: 44%;
+    margin-bottom: 3px;
+    font-size: 60px;
+    font-family: 'Shadows Into Light', cursive;
+    text-shadow: 2px 2px rgb(26, 20, 45);
+}
+
+#firstPageTable{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#firstPageImgs{
+    height: 600px;
+    width: 400px;
+    margin-bottom: -4px;
+}
+
+td:hover{
+    background-color: rgb(62, 62, 62);
+}
+.textOverImg{
+    font-family: 'Shadows Into Light', cursive;
+    color: rgb(221, 174, 72);
+    font-size: 60px;
+    position: relative;
+    text-align: center;
+    bottom: 250px;
+    margin-bottom: -96px;
+}
+
+#loginButton{
+    font-family: 'Shadow Into Light', cursive;
+    margin-left: 48%;
+    font-size: 30px;
+    text-shadow: 1px 1px rgb(26, 20, 45);
+}
+
+a:visited{
+    color: rgb(23, 35, 69);    
+}
